@@ -1,5 +1,7 @@
 # FileManager-CLI
 Gestionnaire de fichiers in ligne de commande (Cli).
+![image](https://user-images.githubusercontent.com/97140632/221430079-dd573a54-0a2b-4774-836f-a7b070b6f826.png)
+
 
 
 ### Fonctionnalités 
